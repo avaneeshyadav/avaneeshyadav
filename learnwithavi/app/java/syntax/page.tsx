@@ -9,7 +9,6 @@ export default function JavaSyntax() {
   }
 }`;
 
-  const explainCode = `public class Main`;
   const methodCode = `public static void main(String[] args)`;
   const printCode = `System.out.println("Hello World");`;
 

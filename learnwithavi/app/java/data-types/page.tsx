@@ -9,9 +9,6 @@ char myLetter = 'D';         // Character
 boolean myBool = true;       // Boolean
 String myText = "Hello";     // String`;
 
-  const primitiveCode = `byte myNum = 100;
-System.out.println(myNum);`;
-
   const tryCode = `public class Main {
   public static void main(String[] args) {
     int myNum = 5;

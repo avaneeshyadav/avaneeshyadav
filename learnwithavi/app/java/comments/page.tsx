@@ -34,11 +34,11 @@ System.out.println("Hello World");`;
         </h2>
         
         <p className="text-gray-700 mb-4">
-          Single-line comments start with two forward slashes (<code className="bg-gray-100 px-2 py-1 rounded">//</code>).
+          Single-line comments start with two forward slashes (<code className="bg-gray-100 px-2 py-1 rounded">{'//'}</code>).
         </p>
 
         <p className="text-gray-700 mb-4">
-          Any text between <code className="bg-gray-100 px-2 py-1 rounded">//</code> and the end of the line is ignored by Java (will not be executed).
+          Any text between <code className="bg-gray-100 px-2 py-1 rounded">{'//'}</code> and the end of the line is ignored by Java (will not be executed).
         </p>
 
         <p className="text-gray-700 mb-4">
@@ -61,11 +61,11 @@ System.out.println("Hello World");`;
         </h2>
         
         <p className="text-gray-700 mb-4">
-          Multi-line comments start with <code className="bg-gray-100 px-2 py-1 rounded">/*</code> and ends with <code className="bg-gray-100 px-2 py-1 rounded">*/</code>.
+          Multi-line comments start with <code className="bg-gray-100 px-2 py-1 rounded">{'/*'}</code> and ends with <code className="bg-gray-100 px-2 py-1 rounded">{'*/'}</code>.
         </p>
 
         <p className="text-gray-700 mb-4">
-          Any text between <code className="bg-gray-100 px-2 py-1 rounded">/*</code> and <code className="bg-gray-100 px-2 py-1 rounded">*/</code> will be ignored by Java.
+          Any text between <code className="bg-gray-100 px-2 py-1 rounded">{'/*'}</code> and <code className="bg-gray-100 px-2 py-1 rounded">{'*/'}</code> will be ignored by Java.
         </p>
 
         <p className="text-gray-700 mb-4">
@@ -76,7 +76,7 @@ System.out.println("Hello World");`;
 
         <div className="bg-yellow-50 border-l-4 border-yellow-500 p-4 my-6">
           <p className="text-gray-800">
-            <strong>Single or multi-line comments?</strong> It is up to you which you want to use. Normally, we use <code className="bg-gray-100 px-2 py-1 rounded">//</code> for short comments, and <code className="bg-gray-100 px-2 py-1 rounded">/* */</code> for longer.
+            <strong>Single or multi-line comments?</strong> It is up to you which you want to use. Normally, we use <code className="bg-gray-100 px-2 py-1 rounded">{'//'}</code> for short comments, and <code className="bg-gray-100 px-2 py-1 rounded">{'/* */'}</code> for longer.
           </p>
         </div>
 
