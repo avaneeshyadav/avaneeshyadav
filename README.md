@@ -23,6 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [CCA Developer — Course Overview](https://buildingai.in/learning/cca-dev-overview)
+- [CCA Developer · M5 — Accelerators, IP &amp; Deployment](https://buildingai.in/learning/cca-dev-m5-accelerators-deployment)
+- [CCA Developer · M4 — Production Engineering, Evals &amp; Security](https://buildingai.in/learning/cca-dev-m4-production-evals-security)
+- [CCA Developer · M3 — Claude Code, MCP &amp; Integration](https://buildingai.in/learning/cca-dev-m3-claude-code-mcp)
+- [CCA Developer · M2 — Production Prompting, Agents &amp; Tool Use](https://buildingai.in/learning/cca-dev-m2-prompting-agents-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
