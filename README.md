@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Temporal vs Spring Batch: Fixing Enterprise Java&#39;s Silent Job Failure Problem](https://buildingai.in/blog/temporal-replace-cron-spring-batch)
+- [AI Coding Tools in Enterprise: What 90 Days of Data Actually Shows](https://buildingai.in/blog/ai-coding-tools-enterprise-90-days)
 - [CCA Developer — Course Overview](https://buildingai.in/learning/cca-dev-overview)
 - [CCA Developer · M5 — Accelerators, IP &amp; Deployment](https://buildingai.in/learning/cca-dev-m5-accelerators-deployment)
 - [CCA Developer · M4 — Production Engineering, Evals &amp; Security](https://buildingai.in/learning/cca-dev-m4-production-evals-security)
-- [CCA Developer · M3 — Claude Code, MCP &amp; Integration](https://buildingai.in/learning/cca-dev-m3-claude-code-mcp)
-- [CCA Developer · M2 — Production Prompting, Agents &amp; Tool Use](https://buildingai.in/learning/cca-dev-m2-prompting-agents-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
