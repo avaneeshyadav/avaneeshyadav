@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Flags for AI: The Deployment Pattern That Saved Us From 3 Production Disasters](https://buildingai.in/blog/feature-flags-ai-llm-production)
 - [10 Spring Boot Mistakes That Silently Kill Production Apps](https://buildingai.in/blog/spring-boot-production-mistakes)
 - [Java Developer Roadmap 2026: What to Learn, What to Skip](https://buildingai.in/blog/java-developer-roadmap-2026)
 - [Your Spring Boot App Starts in 3 Seconds. With GraalVM Native, It&#39;s 80ms.](https://buildingai.in/blog/graalvm-native-spring-boot)
-- [Temporal vs Spring Batch: Fixing Enterprise Java&#39;s Silent Job Failure Problem](https://buildingai.in/blog/temporal-replace-cron-spring-batch)
-- [AI Coding Tools in Enterprise: What 90 Days of Data Actually Shows](https://buildingai.in/blog/ai-coding-tools-enterprise-90-days)
+- [Event-Driven AI: How Kafka Streams Changed the Way We Run LLMs in Production](https://buildingai.in/blog/event-driven-ai-kafka-streams-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
