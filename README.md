@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [We Let Claude Code Refactor Our 200K-Line Java Monolith. Here&#39;s the Honest Result.](https://buildingai.in/blog/ai-refactored-java-monolith-honest-results)
 - [Building AI Skills: GitHub Copilot Extensions, Claude Tools, and Reusable Agent Capabilities](https://buildingai.in/blog/building-skills-copilot-claude-agents)
 - [AI Code Review at Scale: How We Use Claude to Review Every PR Before Humans See It](https://buildingai.in/blog/ai-code-review-github-actions-claude)
 - [Feature Flags for AI: The Deployment Pattern That Saved Us From 3 Production Disasters](https://buildingai.in/blog/feature-flags-ai-llm-production)
 - [10 Spring Boot Mistakes That Silently Kill Production Apps](https://buildingai.in/blog/spring-boot-production-mistakes)
-- [Java Developer Roadmap 2026: What to Learn, What to Skip](https://buildingai.in/blog/java-developer-roadmap-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
