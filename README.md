@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [I Rebuilt Our AI Agents on Kafka Instead of REST — Here&#39;s the Full Java Architecture](https://buildingai.in/blog/multi-agent-java-kafka-architecture)
+- [5 Security Checks Every App Builder Must Run Before Launch](https://buildingai.in/blog/security-checks-before-launch)
 - [How to Find Your AI Business Idea in 60 Seconds](https://buildingai.in/blog/find-ai-business-idea)
 - [System Design: Building a Notification Service for 50 Million Users](https://buildingai.in/blog/system-design-notification-service)
 - [The Modular Monolith: The Java Architecture Most Teams Should Be Using](https://buildingai.in/blog/modular-monolith-java-architecture)
-- [Designing the AI Request Pipeline: 8 Layers Between User Input and Your LLM](https://buildingai.in/blog/ai-request-pipeline-architecture)
-- [We Let Claude Code Refactor Our 200K-Line Java Monolith. Here&#39;s the Honest Result.](https://buildingai.in/blog/ai-refactored-java-monolith-honest-results)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
