@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [I Rebuilt Our AI Agents on Kafka Instead of REST — Here&#39;s the Full Java Architecture](https://buildingai.in/blog/multi-agent-java-kafka-architecture)
-- [5 Security Checks Every App Builder Must Run Before Launch](https://buildingai.in/blog/security-checks-before-launch)
-- [How to Find Your AI Business Idea in 60 Seconds](https://buildingai.in/blog/find-ai-business-idea)
-- [System Design: Building a Notification Service for 50 Million Users](https://buildingai.in/blog/system-design-notification-service)
-- [The Modular Monolith: The Java Architecture Most Teams Should Be Using](https://buildingai.in/blog/modular-monolith-java-architecture)
+- [CCA Developer — Exam Scenarios &amp; Drills](https://buildingai.in/learning/cca-dev-exam-scenarios)
+- [CCA Associate — Course Overview](https://buildingai.in/learning/cca-assoc-overview)
+- [CCA Associate · Page 9 — The 6 Exam Scenarios](https://buildingai.in/learning/cca-assoc-exam-scenarios)
+- [CCA Associate · Page 10 — Exam Cheat-Sheet: Rules, Values &amp; Anti-Patterns](https://buildingai.in/learning/cca-assoc-exam-cheatsheet)
+- [CCA Associate · Domain 7: Troubleshooting and Optimization](https://buildingai.in/learning/cca-assoc-domain-7-troubleshooting-optimization)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
