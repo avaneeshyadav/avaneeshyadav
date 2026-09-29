@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Software Career Roadmap 2026: Java, .NET, Python, AI Engineering, QA, and DevOps](https://buildingai.in/blog/complete-software-career-roadmap-2026)
 - [CCA Developer — Exam Scenarios &amp; Drills](https://buildingai.in/learning/cca-dev-exam-scenarios)
 - [CCA Associate — Course Overview](https://buildingai.in/learning/cca-assoc-overview)
 - [CCA Associate · Page 9 — The 6 Exam Scenarios](https://buildingai.in/learning/cca-assoc-exam-scenarios)
 - [CCA Associate · Page 10 — Exam Cheat-Sheet: Rules, Values &amp; Anti-Patterns](https://buildingai.in/learning/cca-assoc-exam-cheatsheet)
-- [CCA Associate · Domain 7: Troubleshooting and Optimization](https://buildingai.in/learning/cca-assoc-domain-7-troubleshooting-optimization)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
