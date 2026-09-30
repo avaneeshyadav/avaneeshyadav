@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Security Checks Every App Builder Must Run Before Launch](https://buildingai.in/blog/security-checks-before-launch)
+- [Java 25&#39;s Compact Object Headers: I Measured the Real Savings So You Don&#39;t Have To](https://buildingai.in/blog/java-25-compact-object-headers-jep-519)
 - [The Complete Software Career Roadmap 2026: Java, .NET, Python, AI Engineering, QA, and DevOps](https://buildingai.in/blog/complete-software-career-roadmap-2026)
 - [CCA Developer — Exam Scenarios &amp; Drills](https://buildingai.in/learning/cca-dev-exam-scenarios)
 - [CCA Associate — Course Overview](https://buildingai.in/learning/cca-assoc-overview)
-- [CCA Associate · Page 9 — The 6 Exam Scenarios](https://buildingai.in/learning/cca-assoc-exam-scenarios)
-- [CCA Associate · Page 10 — Exam Cheat-Sheet: Rules, Values &amp; Anti-Patterns](https://buildingai.in/learning/cca-assoc-exam-cheatsheet)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
