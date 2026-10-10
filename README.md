@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Claude Certification Should You Take? All 4 Compared](https://www.buildingai.in/blog/claude-certifications-compared)
+- [Agentic AI Explained: From Prompt to Autonomous Systems](https://www.buildingai.in/blog/agentic-ai-enterprise-guide)
 - [5 Security Checks Every App Builder Must Run Before Launch](https://www.buildingai.in/blog/security-checks-before-launch)
 - [Java 25&#39;s Compact Object Headers: I Measured the Real Savings So You Don&#39;t Have To](https://www.buildingai.in/blog/java-25-compact-object-headers-jep-519)
 - [The Complete Software Career Roadmap 2026: Java, .NET, Python, AI Engineering, QA, and DevOps](https://www.buildingai.in/blog/complete-software-career-roadmap-2026)
-- [CCA Developer — Exam Scenarios &amp; Drills](https://www.buildingai.in/learning/cca-dev-exam-scenarios)
-- [CCA Associate — Course Overview](https://www.buildingai.in/learning/cca-assoc-overview)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
