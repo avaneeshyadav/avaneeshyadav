@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Traffic Management in Apigee: Quotas, Spike Arrest, Caching](https://www.buildingai.in/learning/apigee-traffic-management-and-performance)
+- [Fault Handling, Debugging and Monitoring in Apigee](https://www.buildingai.in/learning/apigee-fault-handling-and-observability)
+- [Capstone: Design, Build and Ship an Orders API on Apigee](https://www.buildingai.in/learning/apigee-capstone-order-api)
+- [API Design, Products and Developer Apps in Apigee](https://www.buildingai.in/learning/apigee-api-design-and-products)
 - [System Design: Storage Engines](https://www.buildingai.in/learning/system-design-storage-engines)
-- [System Design: Sharding and Partitioning](https://www.buildingai.in/learning/system-design-sharding)
-- [System Design: Security for Distributed Systems](https://www.buildingai.in/learning/system-design-security)
-- [System Design: Search and Indexing](https://www.buildingai.in/learning/system-design-search-indexing)
-- [System Design: Scaling Basics](https://www.buildingai.in/learning/system-design-scaling-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
