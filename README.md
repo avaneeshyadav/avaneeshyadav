@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [Traffic Management in Apigee: Quotas, Spike Arrest, Caching](https://www.buildingai.in/learning/apigee-traffic-management-and-performance)
-- [Fault Handling, Debugging and Monitoring in Apigee](https://www.buildingai.in/learning/apigee-fault-handling-and-observability)
-- [Capstone: Design, Build and Ship an Orders API on Apigee](https://www.buildingai.in/learning/apigee-capstone-order-api)
-- [API Design, Products and Developer Apps in Apigee](https://www.buildingai.in/learning/apigee-api-design-and-products)
-- [System Design: Storage Engines](https://www.buildingai.in/learning/system-design-storage-engines)
+- [Case: Uber QueryGPT, Natural Language to SQL](https://www.buildingai.in/learning/ai-case-uber-querygpt)
+- [Case: Tool Abuse and Data Exfiltration, Privilege Split](https://www.buildingai.in/learning/ai-case-tool-abuse-exfiltration)
+- [Case: Support Chat Costs Tripled, Routing and Caching](https://www.buildingai.in/learning/ai-case-support-chat-routing-caching)
+- [Case File: Summarisation Quality With a Calibrated Judge](https://www.buildingai.in/learning/ai-case-summarization-eval)
+- [Case: Slow Tail Latency and Hedged Retrieval Requests](https://www.buildingai.in/learning/ai-case-slow-tail-latency)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
