@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [Case: Uber QueryGPT, Natural Language to SQL](https://www.buildingai.in/learning/ai-case-uber-querygpt)
-- [Case: Tool Abuse and Data Exfiltration, Privilege Split](https://www.buildingai.in/learning/ai-case-tool-abuse-exfiltration)
-- [Case: Support Chat Costs Tripled, Routing and Caching](https://www.buildingai.in/learning/ai-case-support-chat-routing-caching)
-- [Case File: Summarisation Quality With a Calibrated Judge](https://www.buildingai.in/learning/ai-case-summarization-eval)
-- [Case: Slow Tail Latency and Hedged Retrieval Requests](https://www.buildingai.in/learning/ai-case-slow-tail-latency)
+- [Case: Moving a Feature to Another Model Provider Safely](https://www.buildingai.in/learning/ai-case-provider-migration-minimal-change)
+- [Case: Calling a Managed Model Privately in a Clinic Network](https://www.buildingai.in/learning/ai-case-private-networking-managed-ai)
+- [Case: Keeping Model Processing in One Region, With Proof](https://www.buildingai.in/learning/ai-case-data-residency-regulated)
+- [AI Architect Templates: ADR and Design-Review Checklist](https://www.buildingai.in/learning/ai-architect-templates)
+- [Cloud Platforms for AI: Networking, Identity, Keys, Logs](https://www.buildingai.in/learning/ai-architect-cloud-platforms)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
