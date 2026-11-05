@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [Case: Moving a Feature to Another Model Provider Safely](https://www.buildingai.in/learning/ai-case-provider-migration-minimal-change)
-- [Case: Calling a Managed Model Privately in a Clinic Network](https://www.buildingai.in/learning/ai-case-private-networking-managed-ai)
-- [Case: Keeping Model Processing in One Region, With Proof](https://www.buildingai.in/learning/ai-case-data-residency-regulated)
-- [AI Architect Templates: ADR and Design-Review Checklist](https://www.buildingai.in/learning/ai-architect-templates)
-- [Cloud Platforms for AI: Networking, Identity, Keys, Logs](https://www.buildingai.in/learning/ai-architect-cloud-platforms)
+- [Multi-Tenant AI Design: Isolation, Quotas and Cost Split](https://www.buildingai.in/learning/fde-multi-tenant-design)
+- [Disaster Recovery and Multi-Region Design for AI Systems](https://www.buildingai.in/learning/fde-disaster-recovery-multi-region)
+- [Ship the AI Service into a Customer&#39;s Environment](https://www.buildingai.in/learning/fde-ship-to-customer-environment)
+- [Operate and Hand Over an AI Assistant After Go-Live](https://www.buildingai.in/learning/fde-operate-and-handover)
+- [Latency, Capacity and Availability Targets for AI Design](https://www.buildingai.in/learning/fde-nfr-sizing-reliability)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
