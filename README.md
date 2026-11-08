@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Tenant AI Design: Isolation, Quotas and Cost Split](https://www.buildingai.in/learning/fde-multi-tenant-design)
-- [Disaster Recovery and Multi-Region Design for AI Systems](https://www.buildingai.in/learning/fde-disaster-recovery-multi-region)
-- [Ship the AI Service into a Customer&#39;s Environment](https://www.buildingai.in/learning/fde-ship-to-customer-environment)
-- [Operate and Hand Over an AI Assistant After Go-Live](https://www.buildingai.in/learning/fde-operate-and-handover)
-- [Latency, Capacity and Availability Targets for AI Design](https://www.buildingai.in/learning/fde-nfr-sizing-reliability)
+- [Web Workers, Worklets and Off-Main-Thread Architecture](https://www.buildingai.in/learning/frontend-web-workers-and-offloading)
+- [From Multi-Page Sites to SPAs and Back: How Web App Architecture Evolved](https://www.buildingai.in/learning/frontend-web-app-architecture-history)
+- [Trade-Off Analysis for Front-End Decisions](https://www.buildingai.in/learning/frontend-trade-off-analysis)
+- [Scheduling Work: Yielding, Idle Time and Task Priorities](https://www.buildingai.in/learning/frontend-task-scheduling-and-yielding)
+- [Streaming SSR and Suspense: Sending a Page in Pieces](https://www.buildingai.in/learning/frontend-streaming-ssr-and-suspense)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
