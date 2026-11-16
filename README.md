@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Workers, Worklets and Off-Main-Thread Architecture](https://www.buildingai.in/learning/frontend-web-workers-and-offloading)
-- [From Multi-Page Sites to SPAs and Back: How Web App Architecture Evolved](https://www.buildingai.in/learning/frontend-web-app-architecture-history)
-- [Trade-Off Analysis for Front-End Decisions](https://www.buildingai.in/learning/frontend-trade-off-analysis)
-- [Scheduling Work: Yielding, Idle Time and Task Priorities](https://www.buildingai.in/learning/frontend-task-scheduling-and-yielding)
-- [Streaming SSR and Suspense: Sending a Page in Pieces](https://www.buildingai.in/learning/frontend-streaming-ssr-and-suspense)
+- [TLS and HTTPS: Certificates, Handshake, Termination and mTLS](https://www.buildingai.in/learning/backend-tls-and-https)
+- [TCP and UDP: Reliable Streams, Datagrams and What Each Costs](https://www.buildingai.in/learning/backend-tcp-and-udp)
+- [The JVM Memory Model and Heap: Run-Time Data Areas and Happens-Before](https://www.buildingai.in/learning/backend-jvm-memory-model-and-heap)
+- [Garbage Collectors: G1 and ZGC, Pauses, Regions and GC Logs](https://www.buildingai.in/learning/backend-garbage-collectors-g1-and-zgc)
+- [DNS: Resolution, Caching, TTLs and Why Changes Take Time](https://www.buildingai.in/learning/backend-dns)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
