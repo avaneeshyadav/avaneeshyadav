@@ -23,11 +23,11 @@ Writing about LLMs, RAG, agents, and production-grade AI at **[buildingai.in](ht
 ### 📝 Latest posts from buildingai.in
 
 <!-- BLOG-POST-LIST:START -->
-- [TLS and HTTPS: Certificates, Handshake, Termination and mTLS](https://www.buildingai.in/learning/backend-tls-and-https)
-- [TCP and UDP: Reliable Streams, Datagrams and What Each Costs](https://www.buildingai.in/learning/backend-tcp-and-udp)
-- [The JVM Memory Model and Heap: Run-Time Data Areas and Happens-Before](https://www.buildingai.in/learning/backend-jvm-memory-model-and-heap)
-- [Garbage Collectors: G1 and ZGC, Pauses, Regions and GC Logs](https://www.buildingai.in/learning/backend-garbage-collectors-g1-and-zgc)
-- [DNS: Resolution, Caching, TTLs and Why Changes Take Time](https://www.buildingai.in/learning/backend-dns)
+- [Ports and Adapters in the Front End](https://www.buildingai.in/learning/frontend-ports-and-adapters-in-the-front-end)
+- [Module Boundaries and Public APIs](https://www.buildingai.in/learning/frontend-module-boundaries-and-public-apis)
+- [Layered and Clean Architecture for the UI](https://www.buildingai.in/learning/frontend-layered-and-clean-architecture-for-ui)
+- [Component-Based Architecture](https://www.buildingai.in/learning/frontend-component-based-architecture)
+- [Client-Side Routing Architecture](https://www.buildingai.in/learning/frontend-client-side-routing-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See all posts](https://buildingai.in/blog)
